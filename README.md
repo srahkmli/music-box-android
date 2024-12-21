@@ -1,6 +1,6 @@
-# MusicPlayer
+# Android Music Box
 
-MusicPlayer is a music player application with an interactive user interface, designed for easy access and control over your music collection. The app allows users to play MP3 songs, create playlists, and manage music in various ways. With intuitive features like searching and adding songs to playlists, it ensures a seamless music experience.
+Music Box is a music player application with an interactive user interface, designed for easy access and control over your music collection. The app allows users to play MP3 songs, create playlists, and manage music in various ways. With intuitive features like searching and adding songs to playlists, it ensures a seamless music experience.
 
 ## Key Features
 
@@ -25,7 +25,7 @@ The application’s core functionality and features are built with the help of:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/srahkmli/musicplayer.git
+   git clone https://github.com/srahkmli/music-box-android.git
    ```
 
 2. Open the project in Android Studio (or your preferred IDE).
